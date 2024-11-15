@@ -29,3 +29,34 @@ The Django Poll App is a fully-featured platform where users must register to vi
 <div align="center">
     <img src="https://github.com/ishitaj17/Poll-App/blob/main/Screenshots/home-page.jpg?raw=true" width="100%"</img> 
 </div>
+<h3>Login page</h3>
+<div align="center">
+    <img src="https://github.com/ishitaj17/Poll-App/blob/main/Screenshots/login-page.jpg?raw=true" width="100%"</img> 
+</div>
+<h3>Register page</h3>
+<div align="center">
+    <img src="https://github.com/ishitaj17/Poll-App/blob/main/Screenshots/register-page.jpg?raw=true" width="100%"</img> 
+</div><h3>Login Details page</h3>
+<div align="center">
+    <img src="https://github.com/ishitaj17/Poll-App/blob/main/Screenshots/login-details.jpg?raw=true" width="100%"</img> 
+</div><h3>Create Poll page</h3>
+<div align="center">
+    <img src="https://github.com/ishitaj17/Poll-App/blob/main/Screenshots/create-poll.jpg?raw=true" width="100%"</img> 
+</div><h3>Poll Details page</h3>
+<div align="center">
+    <img src="https://github.com/ishitaj17/Poll-App/blob/main/Screenshots/poll-vote-before.jpg?raw=true" width="100%"</img> 
+</div><h3>Poll After page</h3>
+<div align="center">
+    <img src="https://github.com/ishitaj17/Poll-App/blob/main/Screenshots/poll-vote-after.jpg?raw=true" width="100%"</img> 
+</div><h3>Poll Added page</h3>
+<div align="center">
+    <img src="https://github.com/ishitaj17/Poll-App/blob/main/Screenshots/poll-added.jpg?raw=true" width="100%"</img> 
+</div><h3>Poll Dashboard page</h3>
+<div align="center">
+    <img src="https://github.com/ishitaj17/Poll-App/blob/main/Screenshots/poll-dashboard-page.jpg?raw=true" width="100%"</img> 
+</div><h3>Edit Poll page</h3>
+<div align="center">
+    <img src="https://github.com/ishitaj17/Poll-App/blob/main/Screenshots/edit-poll.jpg?raw=true" width="100%"</img> 
+</div><h3>Poll Ended page</h3>
+<div align="center">
+    <img src="https://github.com/ishitaj17/Poll-App/blob/main/Screenshots/poll-end.jpg?raw=true" width="100%"</img>
