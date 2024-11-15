@@ -23,3 +23,9 @@ The Django Poll App is a fully-featured platform where users must register to vi
 <code>python manage.py runserver</code>
 
 <p>Then go to http://127.0.0.1:8000 in your browser</p>
+
+<h2>Project snapshot</h2>
+<h3>Home page</h3>
+<div align="center">
+    <img src="https://github.com/ishitaj17/Poll-App/blob/main/Screenshots/home-page.jpg?raw=true" width="100%"</img> 
+</div>
